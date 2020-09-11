@@ -1,5 +1,4 @@
 # ECE661-Computer-Vision
-Homework Solutions of ECE661-Computer Vision course taught by Dr. Avinash Kak (Purdue University)
+Homework2 solution
 
-1. Computing Hoography using 4 point correspondence
-2. Metric Rectification of Images (Removing projective and affine distortions)
+The goal of this homework is to compute Hoography between two images using 4 point correspondence. 

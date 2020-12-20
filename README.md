@@ -1,6 +1,6 @@
 # ECE661-Computer-Vision
 
-Homework Soltions of ECE661-Computer Vision taught by Dr. Avinash Kak (Purdue University) for Fall 2020.
+Homework Solutions of ECE661-Computer Vision taught by Dr. Avinash Kak (Purdue University) for Fall 2020.
 
 Homework Topics
 1. Homography Estimation using 4 point correspondence
